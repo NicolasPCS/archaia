@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:002e7813a6033cf38f2fe7977541c65af88a26cfbbb4d29c40c96facd89976ad
-size 3077
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00000
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00001
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00002
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00003
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00004
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00005
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00006
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00008
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00009
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00010
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00011
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00012
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00013
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00014
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00015
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00016
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00017
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00018
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00019
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00020
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00021
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00022
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00023
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00024
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00025
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00026
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00027
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00028
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00029
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00030
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00031
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00032
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00033
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00034
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00035
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00036
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00037
+python ComputeCls.py /home/ncaytuir/data/ArchaIA_Project/dataset_v1/images/00038

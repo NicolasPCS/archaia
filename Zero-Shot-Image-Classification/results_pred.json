@@ -1,3 +1,3332 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72969121a7e64610b772fcd09e3aa6c1746e7d7d298322d90f20fcbb2649ed8d
-size 105107
+[
+    {
+        "ground_truth:": "artifact_0000.jpg",
+        "prediction_score": 0.5009126663208008,
+        "prediction_label": "Outdoor"
+    },
+    {
+        "ground_truth:": "artifact_0001.jpg",
+        "prediction_score": 0.9978723526000977,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0002.jpg",
+        "prediction_score": 0.9877832531929016,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0003.jpg",
+        "prediction_score": 0.9925738573074341,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0004.jpg",
+        "prediction_score": 0.9786906242370605,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0005.jpg",
+        "prediction_score": 0.9821589589118958,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0006.jpg",
+        "prediction_score": 0.7643600702285767,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0007.jpg",
+        "prediction_score": 0.9688720107078552,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0008.jpg",
+        "prediction_score": 0.9954482913017273,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0009.jpg",
+        "prediction_score": 0.507717490196228,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0010.jpg",
+        "prediction_score": 0.6311604976654053,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0011.jpg",
+        "prediction_score": 0.4625318944454193,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0012.jpg",
+        "prediction_score": 0.9966078996658325,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0013.jpg",
+        "prediction_score": 0.9998249411582947,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0014.jpg",
+        "prediction_score": 0.9743285179138184,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0015.jpg",
+        "prediction_score": 0.9946529865264893,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0016.jpg",
+        "prediction_score": 0.9886099100112915,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0017.jpg",
+        "prediction_score": 0.49110713601112366,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0018.jpg",
+        "prediction_score": 0.9967599511146545,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0019.jpg",
+        "prediction_score": 0.9959205389022827,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0020.jpg",
+        "prediction_score": 0.6646576523780823,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0021.jpg",
+        "prediction_score": 0.8684101104736328,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0022.jpg",
+        "prediction_score": 0.8944273591041565,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0023.jpg",
+        "prediction_score": 0.9701595902442932,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0024.jpg",
+        "prediction_score": 0.9753845930099487,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0025.jpg",
+        "prediction_score": 0.8921080827713013,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0026.jpg",
+        "prediction_score": 0.9916045069694519,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0027.jpg",
+        "prediction_score": 0.6270993947982788,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0028.jpg",
+        "prediction_score": 0.9960485100746155,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0029.jpg",
+        "prediction_score": 0.7604898810386658,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0030.jpg",
+        "prediction_score": 0.9991605281829834,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0031.jpg",
+        "prediction_score": 0.9798475503921509,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0032.jpg",
+        "prediction_score": 0.9989027976989746,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0033.jpg",
+        "prediction_score": 0.996921181678772,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0034.jpg",
+        "prediction_score": 0.868217408657074,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0035.jpg",
+        "prediction_score": 0.5742381811141968,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0036.jpg",
+        "prediction_score": 0.8455355167388916,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0037.jpg",
+        "prediction_score": 0.9268101453781128,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0038.jpg",
+        "prediction_score": 0.8931126594543457,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0040.jpg",
+        "prediction_score": 0.596998393535614,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0041.jpg",
+        "prediction_score": 0.9975196719169617,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0042.jpg",
+        "prediction_score": 0.9885293841362,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0043.jpg",
+        "prediction_score": 0.9735263586044312,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0044.jpg",
+        "prediction_score": 0.9995655417442322,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0045.jpg",
+        "prediction_score": 0.9746710658073425,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0046.jpg",
+        "prediction_score": 0.851655900478363,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0047.jpg",
+        "prediction_score": 0.919184684753418,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0048.jpg",
+        "prediction_score": 0.9554948210716248,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0049.jpg",
+        "prediction_score": 0.9976262450218201,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0050.jpg",
+        "prediction_score": 0.9183197021484375,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0051.jpg",
+        "prediction_score": 0.9409467577934265,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0052.jpg",
+        "prediction_score": 0.9999817609786987,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0053.jpg",
+        "prediction_score": 0.9966288208961487,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0054.jpg",
+        "prediction_score": 0.7056037783622742,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0055.jpg",
+        "prediction_score": 0.9982703924179077,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0056.jpg",
+        "prediction_score": 0.7151421904563904,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0057.jpg",
+        "prediction_score": 0.6840139627456665,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0058.jpg",
+        "prediction_score": 0.8465146422386169,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0059.jpg",
+        "prediction_score": 0.6033141613006592,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0060.jpg",
+        "prediction_score": 0.9820594191551208,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0061.jpg",
+        "prediction_score": 0.9182056188583374,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0062.jpg",
+        "prediction_score": 0.9734323620796204,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0063.jpg",
+        "prediction_score": 0.9939941763877869,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0064.jpg",
+        "prediction_score": 0.7577472925186157,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0065.jpg",
+        "prediction_score": 0.9695761203765869,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0066.jpg",
+        "prediction_score": 0.9813106060028076,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0067.jpg",
+        "prediction_score": 0.9993941783905029,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0068.jpg",
+        "prediction_score": 0.9929781556129456,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0069.jpg",
+        "prediction_score": 0.9996272325515747,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0070.jpg",
+        "prediction_score": 0.8285351991653442,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0071.jpg",
+        "prediction_score": 0.9998865127563477,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0072.jpg",
+        "prediction_score": 0.9914319515228271,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0073.jpg",
+        "prediction_score": 0.3984770178794861,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0074.jpg",
+        "prediction_score": 0.9980201721191406,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0075.jpg",
+        "prediction_score": 0.99883633852005,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0076.jpg",
+        "prediction_score": 0.9119042158126831,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0077.jpg",
+        "prediction_score": 0.7739380598068237,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0078.jpg",
+        "prediction_score": 0.93940669298172,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0079.jpg",
+        "prediction_score": 0.9453531503677368,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0080.jpg",
+        "prediction_score": 0.6913403868675232,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0081.jpg",
+        "prediction_score": 0.5783426761627197,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0082.jpg",
+        "prediction_score": 0.9957024455070496,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0083.jpg",
+        "prediction_score": 0.9706918001174927,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0084.jpg",
+        "prediction_score": 0.9671667814254761,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0085.jpg",
+        "prediction_score": 0.9985718727111816,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0086.jpg",
+        "prediction_score": 0.5980212092399597,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0087.jpg",
+        "prediction_score": 0.9968360662460327,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0088.jpg",
+        "prediction_score": 0.9489530324935913,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0089.jpg",
+        "prediction_score": 0.8905885219573975,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0090.jpg",
+        "prediction_score": 0.92867511510849,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0091.jpg",
+        "prediction_score": 0.9742009043693542,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0092.jpg",
+        "prediction_score": 0.9942111372947693,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0093.jpg",
+        "prediction_score": 0.6698495149612427,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0094.jpg",
+        "prediction_score": 0.9964438080787659,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0095.jpg",
+        "prediction_score": 0.9978547692298889,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0096.jpg",
+        "prediction_score": 0.8718878030776978,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0097.jpg",
+        "prediction_score": 0.6570898294448853,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0098.jpg",
+        "prediction_score": 0.9333306550979614,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0099.jpg",
+        "prediction_score": 0.9879944324493408,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0100.jpg",
+        "prediction_score": 0.9996962547302246,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0101.jpg",
+        "prediction_score": 0.9922571182250977,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0102.jpg",
+        "prediction_score": 0.9353799223899841,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0103.jpg",
+        "prediction_score": 0.9978653788566589,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0104.jpg",
+        "prediction_score": 0.9941126704216003,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0105.jpg",
+        "prediction_score": 0.890291690826416,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0106.jpg",
+        "prediction_score": 0.9293514490127563,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0107.jpg",
+        "prediction_score": 0.9901288151741028,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0108.jpg",
+        "prediction_score": 0.9994675517082214,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0109.jpg",
+        "prediction_score": 0.5529695153236389,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0110.jpg",
+        "prediction_score": 0.8292422294616699,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0111.jpg",
+        "prediction_score": 0.9181391596794128,
+        "prediction_label": "Outdoor"
+    },
+    {
+        "ground_truth:": "artifact_0112.jpg",
+        "prediction_score": 0.7638229727745056,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0113.jpg",
+        "prediction_score": 0.8734868764877319,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0114.jpg",
+        "prediction_score": 0.9975599050521851,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0115.jpg",
+        "prediction_score": 0.9647590517997742,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0116.jpg",
+        "prediction_score": 0.9983647465705872,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0117.jpg",
+        "prediction_score": 0.9379892945289612,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0118.jpg",
+        "prediction_score": 0.9780502915382385,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0119.jpg",
+        "prediction_score": 0.868167519569397,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0120.jpg",
+        "prediction_score": 0.9295380711555481,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0121.jpg",
+        "prediction_score": 0.9996947050094604,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0122.jpg",
+        "prediction_score": 0.730428159236908,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0123.jpg",
+        "prediction_score": 0.8090908527374268,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0124.jpg",
+        "prediction_score": 0.717659056186676,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0125.jpg",
+        "prediction_score": 0.95890212059021,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0126.jpg",
+        "prediction_score": 0.9987232089042664,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0127.jpg",
+        "prediction_score": 0.7697085738182068,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0128.jpg",
+        "prediction_score": 0.9862728714942932,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0129.jpg",
+        "prediction_score": 0.9977692365646362,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0130.jpg",
+        "prediction_score": 0.5373432040214539,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0131.jpg",
+        "prediction_score": 0.9902642965316772,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0132.jpg",
+        "prediction_score": 0.9827819466590881,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0133.jpg",
+        "prediction_score": 0.9832609295845032,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0135.jpg",
+        "prediction_score": 0.9967489242553711,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0136.jpg",
+        "prediction_score": 0.9998273253440857,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0137.jpg",
+        "prediction_score": 0.9974478483200073,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0138.jpg",
+        "prediction_score": 0.9967249035835266,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0139.jpg",
+        "prediction_score": 0.9988390803337097,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0140.jpg",
+        "prediction_score": 0.5872924327850342,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0141.jpg",
+        "prediction_score": 0.7449110746383667,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0142.jpg",
+        "prediction_score": 0.9003950357437134,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0143.jpg",
+        "prediction_score": 0.9997327923774719,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0144.jpg",
+        "prediction_score": 0.6734199523925781,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0145.jpg",
+        "prediction_score": 0.9983761310577393,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0146.jpg",
+        "prediction_score": 0.997707724571228,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0148.jpg",
+        "prediction_score": 0.5284401774406433,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0149.jpg",
+        "prediction_score": 0.9320435523986816,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0150.jpg",
+        "prediction_score": 0.9974079728126526,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0151.jpg",
+        "prediction_score": 0.9948481321334839,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0152.jpg",
+        "prediction_score": 0.8672376871109009,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0153.jpg",
+        "prediction_score": 0.9997445940971375,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0154.jpg",
+        "prediction_score": 0.9326485991477966,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0155.jpg",
+        "prediction_score": 0.9949687123298645,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0156.jpg",
+        "prediction_score": 0.9723223447799683,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0157.jpg",
+        "prediction_score": 0.9853605628013611,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0159.jpg",
+        "prediction_score": 0.9957584738731384,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0160.jpg",
+        "prediction_score": 0.9828632473945618,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0162.jpg",
+        "prediction_score": 0.9889386892318726,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0163.jpg",
+        "prediction_score": 0.9937706589698792,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0164.jpg",
+        "prediction_score": 0.729186475276947,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0165.jpg",
+        "prediction_score": 0.8244398832321167,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0166.jpg",
+        "prediction_score": 0.8357242345809937,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0167.jpg",
+        "prediction_score": 0.9736433029174805,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0168.jpg",
+        "prediction_score": 0.8891129493713379,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0169.jpg",
+        "prediction_score": 0.9963080883026123,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0170.jpg",
+        "prediction_score": 0.9914841055870056,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0171.jpg",
+        "prediction_score": 0.9658216238021851,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0172.jpg",
+        "prediction_score": 0.9958017468452454,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0173.jpg",
+        "prediction_score": 0.9920479655265808,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0174.jpg",
+        "prediction_score": 0.9992651343345642,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0175.jpg",
+        "prediction_score": 0.9931977987289429,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0176.jpg",
+        "prediction_score": 0.9893418550491333,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0177.jpg",
+        "prediction_score": 0.7635969519615173,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0178.jpg",
+        "prediction_score": 0.6226698160171509,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0179.jpg",
+        "prediction_score": 0.9993157386779785,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0180.jpg",
+        "prediction_score": 0.998114824295044,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0181.jpg",
+        "prediction_score": 0.9823474884033203,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0182.jpg",
+        "prediction_score": 0.9885828495025635,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0183.jpg",
+        "prediction_score": 0.7203614115715027,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0184.jpg",
+        "prediction_score": 0.9837974905967712,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0185.jpg",
+        "prediction_score": 0.9069730043411255,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0186.jpg",
+        "prediction_score": 0.604892909526825,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0187.jpg",
+        "prediction_score": 0.9974554181098938,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0188.jpg",
+        "prediction_score": 0.7643707990646362,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0189.jpg",
+        "prediction_score": 0.5970938801765442,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0190.jpg",
+        "prediction_score": 0.9952034950256348,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0191.jpg",
+        "prediction_score": 0.9842923879623413,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0192.jpg",
+        "prediction_score": 0.7448129057884216,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0193.jpg",
+        "prediction_score": 0.8232199549674988,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0194.jpg",
+        "prediction_score": 0.9983135461807251,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0196.jpg",
+        "prediction_score": 0.982647716999054,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0197.jpg",
+        "prediction_score": 0.41140004992485046,
+        "prediction_label": "Outdoor"
+    },
+    {
+        "ground_truth:": "artifact_0198.jpg",
+        "prediction_score": 0.7352021336555481,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0199.jpg",
+        "prediction_score": 0.9473780393600464,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0200.jpg",
+        "prediction_score": 0.994692862033844,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0201.jpg",
+        "prediction_score": 0.8958099484443665,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0202.jpg",
+        "prediction_score": 0.8772640228271484,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0203.jpg",
+        "prediction_score": 0.5331530570983887,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0204.jpg",
+        "prediction_score": 0.9999351501464844,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0205.jpg",
+        "prediction_score": 0.9500442743301392,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0206.jpg",
+        "prediction_score": 0.9653293490409851,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0207.jpg",
+        "prediction_score": 0.9985626339912415,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0208.jpg",
+        "prediction_score": 0.9986293315887451,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0209.jpg",
+        "prediction_score": 0.6924681067466736,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0210.jpg",
+        "prediction_score": 0.7179412841796875,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0211.jpg",
+        "prediction_score": 0.9958605170249939,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0212.jpg",
+        "prediction_score": 0.9698716402053833,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0213.jpg",
+        "prediction_score": 0.9510629177093506,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0214.jpg",
+        "prediction_score": 0.9991681575775146,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0215.jpg",
+        "prediction_score": 0.5833606123924255,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0216.jpg",
+        "prediction_score": 0.998570442199707,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0217.jpg",
+        "prediction_score": 0.999772846698761,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0218.jpg",
+        "prediction_score": 0.9965260624885559,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0219.jpg",
+        "prediction_score": 0.9371322393417358,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0220.jpg",
+        "prediction_score": 0.949750542640686,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0221.jpg",
+        "prediction_score": 0.9977443218231201,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0222.jpg",
+        "prediction_score": 0.9996739625930786,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0223.jpg",
+        "prediction_score": 0.9781368374824524,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0224.jpg",
+        "prediction_score": 0.9858269095420837,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0225.jpg",
+        "prediction_score": 0.8638034462928772,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0226.jpg",
+        "prediction_score": 0.9987457990646362,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0227.jpg",
+        "prediction_score": 0.9983899593353271,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0228.jpg",
+        "prediction_score": 0.9992707371711731,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0229.jpg",
+        "prediction_score": 0.9967435598373413,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0230.jpg",
+        "prediction_score": 0.9957275390625,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0231.jpg",
+        "prediction_score": 0.4620519280433655,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0232.jpg",
+        "prediction_score": 0.9916109442710876,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0233.jpg",
+        "prediction_score": 0.9946053624153137,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0234.jpg",
+        "prediction_score": 0.7211721539497375,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0235.jpg",
+        "prediction_score": 0.9964215755462646,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0236.jpg",
+        "prediction_score": 0.7655859589576721,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0237.jpg",
+        "prediction_score": 0.9988447427749634,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0238.jpg",
+        "prediction_score": 0.9310905337333679,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0239.jpg",
+        "prediction_score": 0.9990715980529785,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0240.jpg",
+        "prediction_score": 0.9965453743934631,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0241.jpg",
+        "prediction_score": 0.67482590675354,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0242.jpg",
+        "prediction_score": 0.9963715076446533,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0243.jpg",
+        "prediction_score": 0.9999167919158936,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0244.jpg",
+        "prediction_score": 0.9795403480529785,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0245.jpg",
+        "prediction_score": 0.526785671710968,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0246.jpg",
+        "prediction_score": 0.7009842395782471,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0247.jpg",
+        "prediction_score": 0.7272636294364929,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0248.jpg",
+        "prediction_score": 0.9829283356666565,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0249.jpg",
+        "prediction_score": 0.9936287999153137,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0250.jpg",
+        "prediction_score": 0.6908552646636963,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0251.jpg",
+        "prediction_score": 0.6304819583892822,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0252.jpg",
+        "prediction_score": 0.9817075729370117,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0253.jpg",
+        "prediction_score": 0.9976533055305481,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0254.jpg",
+        "prediction_score": 0.9222623705863953,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0255.jpg",
+        "prediction_score": 0.9938629865646362,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0256.jpg",
+        "prediction_score": 0.9660912752151489,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0257.jpg",
+        "prediction_score": 0.9873369336128235,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0258.jpg",
+        "prediction_score": 0.978594183921814,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0259.jpg",
+        "prediction_score": 0.4323492646217346,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0260.jpg",
+        "prediction_score": 0.8042086362838745,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0261.jpg",
+        "prediction_score": 0.9914953708648682,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0262.jpg",
+        "prediction_score": 0.999544084072113,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0263.jpg",
+        "prediction_score": 0.721742570400238,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0264.jpg",
+        "prediction_score": 0.998177170753479,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0265.jpg",
+        "prediction_score": 0.6186184287071228,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0266.jpg",
+        "prediction_score": 0.9588840007781982,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0267.jpg",
+        "prediction_score": 0.9962542057037354,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0268.jpg",
+        "prediction_score": 0.9984943866729736,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0269.jpg",
+        "prediction_score": 0.9913798570632935,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0270.jpg",
+        "prediction_score": 0.880715012550354,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0271.jpg",
+        "prediction_score": 0.9994475245475769,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0272.jpg",
+        "prediction_score": 0.8738915920257568,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0273.jpg",
+        "prediction_score": 0.8820751905441284,
+        "prediction_label": "Outdoor"
+    },
+    {
+        "ground_truth:": "artifact_0274.jpg",
+        "prediction_score": 0.9959490299224854,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0275.jpg",
+        "prediction_score": 0.5529990196228027,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0276.jpg",
+        "prediction_score": 0.9975419044494629,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0279.jpg",
+        "prediction_score": 0.9816271662712097,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0280.jpg",
+        "prediction_score": 0.5855120420455933,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0281.jpg",
+        "prediction_score": 0.997713565826416,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0282.jpg",
+        "prediction_score": 0.8365908861160278,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0283.jpg",
+        "prediction_score": 0.992510199546814,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0284.jpg",
+        "prediction_score": 0.9926833510398865,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0285.jpg",
+        "prediction_score": 0.9907312989234924,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0286.jpg",
+        "prediction_score": 0.483384370803833,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0287.jpg",
+        "prediction_score": 0.7081902027130127,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0288.jpg",
+        "prediction_score": 0.996830403804779,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0289.jpg",
+        "prediction_score": 0.7799412608146667,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0290.jpg",
+        "prediction_score": 0.9886959791183472,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0291.jpg",
+        "prediction_score": 0.965771496295929,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0292.jpg",
+        "prediction_score": 0.9877752065658569,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0293.jpg",
+        "prediction_score": 0.9645551443099976,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0294.jpg",
+        "prediction_score": 0.7644402980804443,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0295.jpg",
+        "prediction_score": 0.9761515259742737,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0296.jpg",
+        "prediction_score": 0.9964206218719482,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0297.jpg",
+        "prediction_score": 0.9810789823532104,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0298.jpg",
+        "prediction_score": 0.8718205690383911,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0299.jpg",
+        "prediction_score": 0.9841020703315735,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0300.jpg",
+        "prediction_score": 0.9187589287757874,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0301.jpg",
+        "prediction_score": 0.9924127459526062,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0302.jpg",
+        "prediction_score": 0.9993883371353149,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0303.jpg",
+        "prediction_score": 0.9445571303367615,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0304.jpg",
+        "prediction_score": 0.9987488985061646,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0305.jpg",
+        "prediction_score": 0.8955844044685364,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0306.jpg",
+        "prediction_score": 0.9980340600013733,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0307.jpg",
+        "prediction_score": 0.9942941069602966,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0308.jpg",
+        "prediction_score": 0.7038388252258301,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0309.jpg",
+        "prediction_score": 0.865266740322113,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0310.jpg",
+        "prediction_score": 0.9954484105110168,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0311.jpg",
+        "prediction_score": 0.6327903270721436,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0312.jpg",
+        "prediction_score": 0.6067827939987183,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0313.jpg",
+        "prediction_score": 0.9966350197792053,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0314.jpg",
+        "prediction_score": 0.9667789936065674,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0315.jpg",
+        "prediction_score": 0.9935784339904785,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0316.jpg",
+        "prediction_score": 0.9558367729187012,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0317.jpg",
+        "prediction_score": 0.9700720906257629,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0318.jpg",
+        "prediction_score": 0.7055303454399109,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0319.jpg",
+        "prediction_score": 0.9963029623031616,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0320.jpg",
+        "prediction_score": 0.8358968496322632,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0321.jpg",
+        "prediction_score": 0.9945589900016785,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0322.jpg",
+        "prediction_score": 0.6180723309516907,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0323.jpg",
+        "prediction_score": 0.9996143579483032,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0324.jpg",
+        "prediction_score": 0.9884964227676392,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0325.jpg",
+        "prediction_score": 0.9927566647529602,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0326.jpg",
+        "prediction_score": 0.9882954359054565,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0328.jpg",
+        "prediction_score": 0.9995081424713135,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0329.jpg",
+        "prediction_score": 0.8168280124664307,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0330.jpg",
+        "prediction_score": 0.9487721920013428,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0331.jpg",
+        "prediction_score": 0.8763694763183594,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0332.jpg",
+        "prediction_score": 0.9725998044013977,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0333.jpg",
+        "prediction_score": 0.996029257774353,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0334.jpg",
+        "prediction_score": 0.5187937021255493,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0335.jpg",
+        "prediction_score": 0.9811366200447083,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0336.jpg",
+        "prediction_score": 0.91802978515625,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0337.jpg",
+        "prediction_score": 0.9974579215049744,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0338.jpg",
+        "prediction_score": 0.9822695851325989,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0339.jpg",
+        "prediction_score": 0.9912806153297424,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0340.jpg",
+        "prediction_score": 0.9443307518959045,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0341.jpg",
+        "prediction_score": 0.997702419757843,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0342.jpg",
+        "prediction_score": 0.9851034283638,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0343.jpg",
+        "prediction_score": 0.9974370002746582,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0344.jpg",
+        "prediction_score": 0.9990434050559998,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0345.jpg",
+        "prediction_score": 0.49352261424064636,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0346.jpg",
+        "prediction_score": 0.9965513944625854,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0347.jpg",
+        "prediction_score": 0.9947815537452698,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0348.jpg",
+        "prediction_score": 0.9871090650558472,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0349.jpg",
+        "prediction_score": 0.9963195323944092,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0350.jpg",
+        "prediction_score": 0.5657052397727966,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0351.jpg",
+        "prediction_score": 0.949191689491272,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0352.jpg",
+        "prediction_score": 0.8071271181106567,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0353.jpg",
+        "prediction_score": 0.9967966675758362,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0354.jpg",
+        "prediction_score": 0.9975541234016418,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0355.jpg",
+        "prediction_score": 0.9973642230033875,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0356.jpg",
+        "prediction_score": 0.9997288584709167,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0357.jpg",
+        "prediction_score": 0.6422963738441467,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0358.jpg",
+        "prediction_score": 0.9952056407928467,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0359.jpg",
+        "prediction_score": 0.9966906309127808,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0360.jpg",
+        "prediction_score": 0.9997535347938538,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0361.jpg",
+        "prediction_score": 0.9988821148872375,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0362.jpg",
+        "prediction_score": 0.9861966967582703,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0363.jpg",
+        "prediction_score": 0.956532895565033,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0364.jpg",
+        "prediction_score": 0.9949021339416504,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0365.jpg",
+        "prediction_score": 0.8810700178146362,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0366.jpg",
+        "prediction_score": 0.8947567939758301,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0367.jpg",
+        "prediction_score": 0.48294273018836975,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0368.jpg",
+        "prediction_score": 0.9989911913871765,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0369.jpg",
+        "prediction_score": 0.9989622831344604,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0370.jpg",
+        "prediction_score": 0.997190535068512,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0371.jpg",
+        "prediction_score": 0.9992330074310303,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0372.jpg",
+        "prediction_score": 0.9695407152175903,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0373.jpg",
+        "prediction_score": 0.7233194708824158,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0374.jpg",
+        "prediction_score": 0.6903473734855652,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0375.jpg",
+        "prediction_score": 0.640232264995575,
+        "prediction_label": "Outdoor"
+    },
+    {
+        "ground_truth:": "artifact_0376.jpg",
+        "prediction_score": 0.9945185780525208,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0377.jpg",
+        "prediction_score": 0.9976108074188232,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0378.jpg",
+        "prediction_score": 0.7919876575469971,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0379.jpg",
+        "prediction_score": 0.8605209589004517,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0380.jpg",
+        "prediction_score": 0.964603841304779,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0381.jpg",
+        "prediction_score": 0.8240233659744263,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0382.jpg",
+        "prediction_score": 0.9899569153785706,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0383.jpg",
+        "prediction_score": 0.8388780951499939,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0384.jpg",
+        "prediction_score": 0.9987300038337708,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0386.jpg",
+        "prediction_score": 0.9806264042854309,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0387.jpg",
+        "prediction_score": 0.9986786246299744,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0388.jpg",
+        "prediction_score": 0.6019606590270996,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0389.jpg",
+        "prediction_score": 0.9993163347244263,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0390.jpg",
+        "prediction_score": 0.7977586984634399,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0391.jpg",
+        "prediction_score": 0.8313953876495361,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0392.jpg",
+        "prediction_score": 0.979274570941925,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0393.jpg",
+        "prediction_score": 0.9908367395401001,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0395.jpg",
+        "prediction_score": 0.9375010132789612,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0396.jpg",
+        "prediction_score": 0.564725399017334,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0397.jpg",
+        "prediction_score": 0.5720918774604797,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0398.jpg",
+        "prediction_score": 0.9523508548736572,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0399.jpg",
+        "prediction_score": 0.913434624671936,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0400.jpg",
+        "prediction_score": 0.9596814513206482,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0401.jpg",
+        "prediction_score": 0.999653697013855,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0402.jpg",
+        "prediction_score": 0.9997829794883728,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0403.jpg",
+        "prediction_score": 0.9989527463912964,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0404.jpg",
+        "prediction_score": 0.5319865942001343,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0405.jpg",
+        "prediction_score": 0.9413131475448608,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0406.jpg",
+        "prediction_score": 0.5630539059638977,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0407.jpg",
+        "prediction_score": 0.995469331741333,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0408.jpg",
+        "prediction_score": 0.9856464266777039,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0409.jpg",
+        "prediction_score": 0.9942272901535034,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0410.jpg",
+        "prediction_score": 0.9252635836601257,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0411.jpg",
+        "prediction_score": 0.9819347858428955,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0412.jpg",
+        "prediction_score": 0.9974097609519958,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0413.jpg",
+        "prediction_score": 0.8055369257926941,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0414.jpg",
+        "prediction_score": 0.9980277419090271,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0415.jpg",
+        "prediction_score": 0.9857067465782166,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0416.jpg",
+        "prediction_score": 0.9082918763160706,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0417.jpg",
+        "prediction_score": 0.8207426071166992,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0418.jpg",
+        "prediction_score": 0.9958882927894592,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0419.jpg",
+        "prediction_score": 0.9875454306602478,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0420.jpg",
+        "prediction_score": 0.992683470249176,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0421.jpg",
+        "prediction_score": 0.8363709449768066,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0422.jpg",
+        "prediction_score": 0.9686484336853027,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0423.jpg",
+        "prediction_score": 0.9977268576622009,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0424.jpg",
+        "prediction_score": 0.9993364214897156,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0425.jpg",
+        "prediction_score": 0.7807021737098694,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0426.jpg",
+        "prediction_score": 0.9988920092582703,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0427.jpg",
+        "prediction_score": 0.9953290224075317,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0428.jpg",
+        "prediction_score": 0.996325671672821,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0429.jpg",
+        "prediction_score": 0.8400358557701111,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0430.jpg",
+        "prediction_score": 0.811970055103302,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0432.jpg",
+        "prediction_score": 0.8711628913879395,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0433.jpg",
+        "prediction_score": 0.9989657402038574,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0434.jpg",
+        "prediction_score": 0.8026952147483826,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0435.jpg",
+        "prediction_score": 0.9979830980300903,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0436.jpg",
+        "prediction_score": 0.9949709177017212,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0437.jpg",
+        "prediction_score": 0.9414697289466858,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0438.jpg",
+        "prediction_score": 0.651366114616394,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0439.jpg",
+        "prediction_score": 0.995693564414978,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0440.jpg",
+        "prediction_score": 0.9987450838088989,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0441.jpg",
+        "prediction_score": 0.8828043341636658,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0442.jpg",
+        "prediction_score": 0.9981271624565125,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0443.jpg",
+        "prediction_score": 0.9269240498542786,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0444.jpg",
+        "prediction_score": 0.9900830984115601,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0445.jpg",
+        "prediction_score": 0.976735532283783,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0446.jpg",
+        "prediction_score": 0.9998801946640015,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0447.jpg",
+        "prediction_score": 0.5047870874404907,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0448.jpg",
+        "prediction_score": 0.8856567740440369,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0449.jpg",
+        "prediction_score": 0.9734960794448853,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0450.jpg",
+        "prediction_score": 0.8545584678649902,
+        "prediction_label": "Outdoor"
+    },
+    {
+        "ground_truth:": "artifact_0451.jpg",
+        "prediction_score": 0.9965630173683167,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0452.jpg",
+        "prediction_score": 0.975615918636322,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0453.jpg",
+        "prediction_score": 0.9779372811317444,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0454.jpg",
+        "prediction_score": 0.9960766434669495,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0455.jpg",
+        "prediction_score": 0.9977923631668091,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0456.jpg",
+        "prediction_score": 0.9958640336990356,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0457.jpg",
+        "prediction_score": 0.998375654220581,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0458.jpg",
+        "prediction_score": 0.9497779607772827,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0459.jpg",
+        "prediction_score": 0.9597553014755249,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0460.jpg",
+        "prediction_score": 0.9993060827255249,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0461.jpg",
+        "prediction_score": 0.9986401200294495,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0462.jpg",
+        "prediction_score": 0.9969422221183777,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0463.jpg",
+        "prediction_score": 0.7736441493034363,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0464.jpg",
+        "prediction_score": 0.9847022891044617,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0465.jpg",
+        "prediction_score": 0.9877645373344421,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0466.jpg",
+        "prediction_score": 0.9863786697387695,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0467.jpg",
+        "prediction_score": 0.9904330968856812,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0468.jpg",
+        "prediction_score": 0.998155415058136,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0469.jpg",
+        "prediction_score": 0.9966204166412354,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0470.jpg",
+        "prediction_score": 0.9956725835800171,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0471.jpg",
+        "prediction_score": 0.9737445712089539,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0472.jpg",
+        "prediction_score": 0.9803606867790222,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0473.jpg",
+        "prediction_score": 0.9648668169975281,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0474.jpg",
+        "prediction_score": 0.9981132745742798,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0475.jpg",
+        "prediction_score": 0.9996724128723145,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0476.jpg",
+        "prediction_score": 0.7670909762382507,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0477.jpg",
+        "prediction_score": 0.9996168613433838,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0478.jpg",
+        "prediction_score": 0.9413331747055054,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0479.jpg",
+        "prediction_score": 0.9462864398956299,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0480.jpg",
+        "prediction_score": 0.9982885718345642,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0481.jpg",
+        "prediction_score": 0.998172402381897,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0482.jpg",
+        "prediction_score": 0.9298101663589478,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0483.jpg",
+        "prediction_score": 0.9984732270240784,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0484.jpg",
+        "prediction_score": 0.997552216053009,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0485.jpg",
+        "prediction_score": 0.9778939485549927,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0486.jpg",
+        "prediction_score": 0.8808287382125854,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0487.jpg",
+        "prediction_score": 0.7998735904693604,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0488.jpg",
+        "prediction_score": 0.7837638258934021,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0489.jpg",
+        "prediction_score": 0.9996294975280762,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0490.jpg",
+        "prediction_score": 0.984085202217102,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0491.jpg",
+        "prediction_score": 0.9990280866622925,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0492.jpg",
+        "prediction_score": 0.6826115846633911,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0493.jpg",
+        "prediction_score": 0.9991884827613831,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0494.jpg",
+        "prediction_score": 0.9909728765487671,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0495.jpg",
+        "prediction_score": 0.946309506893158,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0496.jpg",
+        "prediction_score": 0.9969336986541748,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0497.jpg",
+        "prediction_score": 0.9964364767074585,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0498.jpg",
+        "prediction_score": 0.7539918422698975,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0499.jpg",
+        "prediction_score": 0.9946913123130798,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0500.jpg",
+        "prediction_score": 0.9965662956237793,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0501.jpg",
+        "prediction_score": 0.9854066371917725,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0502.jpg",
+        "prediction_score": 0.9867267608642578,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0503.jpg",
+        "prediction_score": 0.9754697680473328,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0504.jpg",
+        "prediction_score": 0.9958068132400513,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0505.jpg",
+        "prediction_score": 0.6889951229095459,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0506.jpg",
+        "prediction_score": 0.9887343645095825,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0507.jpg",
+        "prediction_score": 0.846418023109436,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0508.jpg",
+        "prediction_score": 0.9987502098083496,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0509.jpg",
+        "prediction_score": 0.80417799949646,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0510.jpg",
+        "prediction_score": 0.9996973276138306,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0511.jpg",
+        "prediction_score": 0.9848999977111816,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0512.jpg",
+        "prediction_score": 0.9766437411308289,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0513.jpg",
+        "prediction_score": 0.9637918472290039,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0514.jpg",
+        "prediction_score": 0.998832643032074,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0515.jpg",
+        "prediction_score": 0.999704897403717,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0516.jpg",
+        "prediction_score": 0.8219716548919678,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0517.jpg",
+        "prediction_score": 0.9984124898910522,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0518.jpg",
+        "prediction_score": 0.9867097735404968,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0519.jpg",
+        "prediction_score": 0.9346634149551392,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0520.jpg",
+        "prediction_score": 0.9898375272750854,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0521.jpg",
+        "prediction_score": 0.9999344348907471,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0522.jpg",
+        "prediction_score": 0.9778182506561279,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0523.jpg",
+        "prediction_score": 0.6430242657661438,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0524.jpg",
+        "prediction_score": 0.9962705373764038,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0525.jpg",
+        "prediction_score": 0.9963279366493225,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0526.jpg",
+        "prediction_score": 0.4879983067512512,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0527.jpg",
+        "prediction_score": 0.9571353793144226,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0528.jpg",
+        "prediction_score": 0.9959834814071655,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0529.jpg",
+        "prediction_score": 0.9981327652931213,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0530.jpg",
+        "prediction_score": 0.9067674279212952,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0531.jpg",
+        "prediction_score": 0.603627622127533,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0532.jpg",
+        "prediction_score": 0.9984893798828125,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0533.jpg",
+        "prediction_score": 0.9988793730735779,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0534.jpg",
+        "prediction_score": 0.9614444971084595,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0535.jpg",
+        "prediction_score": 0.9975947737693787,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0536.jpg",
+        "prediction_score": 0.9244371652603149,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0537.jpg",
+        "prediction_score": 0.7922248244285583,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0538.jpg",
+        "prediction_score": 0.9727527499198914,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0539.jpg",
+        "prediction_score": 0.9232112169265747,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0540.jpg",
+        "prediction_score": 0.9662163257598877,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0541.jpg",
+        "prediction_score": 0.8812395930290222,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0542.jpg",
+        "prediction_score": 0.9660683274269104,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0543.jpg",
+        "prediction_score": 0.9990378618240356,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0544.jpg",
+        "prediction_score": 0.9980877041816711,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0545.jpg",
+        "prediction_score": 0.48673945665359497,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0546.jpg",
+        "prediction_score": 0.8781363368034363,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0547.jpg",
+        "prediction_score": 0.9753794074058533,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0548.jpg",
+        "prediction_score": 0.5385282635688782,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0549.jpg",
+        "prediction_score": 0.9893516898155212,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0550.jpg",
+        "prediction_score": 0.9548079967498779,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0551.jpg",
+        "prediction_score": 0.5378130674362183,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0552.jpg",
+        "prediction_score": 0.5727865695953369,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0553.jpg",
+        "prediction_score": 0.7047169208526611,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0554.jpg",
+        "prediction_score": 0.9624205827713013,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0555.jpg",
+        "prediction_score": 0.5933803915977478,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0556.jpg",
+        "prediction_score": 0.9947690367698669,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0557.jpg",
+        "prediction_score": 0.924136221408844,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0558.jpg",
+        "prediction_score": 0.9997513890266418,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0559.jpg",
+        "prediction_score": 0.9984148740768433,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0560.jpg",
+        "prediction_score": 0.9994938373565674,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0561.jpg",
+        "prediction_score": 0.9976436495780945,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0562.jpg",
+        "prediction_score": 0.5141490697860718,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0563.jpg",
+        "prediction_score": 0.9981629252433777,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0564.jpg",
+        "prediction_score": 0.9814504384994507,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0565.jpg",
+        "prediction_score": 0.9937303066253662,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0566.jpg",
+        "prediction_score": 0.8881970643997192,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0567.jpg",
+        "prediction_score": 0.9792328476905823,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0568.jpg",
+        "prediction_score": 0.9970023036003113,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0569.jpg",
+        "prediction_score": 0.8603577017784119,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0570.jpg",
+        "prediction_score": 0.8888036608695984,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0571.jpg",
+        "prediction_score": 0.9937247633934021,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0572.jpg",
+        "prediction_score": 0.8358208537101746,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0573.jpg",
+        "prediction_score": 0.952566921710968,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0574.jpg",
+        "prediction_score": 0.5063068270683289,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0575.jpg",
+        "prediction_score": 0.9976357221603394,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0576.jpg",
+        "prediction_score": 0.5955240726470947,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0577.jpg",
+        "prediction_score": 0.9915675520896912,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0578.jpg",
+        "prediction_score": 0.9980694651603699,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0579.jpg",
+        "prediction_score": 0.9868600964546204,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0580.jpg",
+        "prediction_score": 0.9877552390098572,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0581.jpg",
+        "prediction_score": 0.5781380534172058,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0582.jpg",
+        "prediction_score": 0.9937034249305725,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0583.jpg",
+        "prediction_score": 0.9566084146499634,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0584.jpg",
+        "prediction_score": 0.9980288147926331,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0585.jpg",
+        "prediction_score": 0.9939084053039551,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0586.jpg",
+        "prediction_score": 0.3979465067386627,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0587.jpg",
+        "prediction_score": 0.9682025909423828,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0588.jpg",
+        "prediction_score": 0.7341281771659851,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0589.jpg",
+        "prediction_score": 0.9963020086288452,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0590.jpg",
+        "prediction_score": 0.8879731893539429,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0591.jpg",
+        "prediction_score": 0.9961768388748169,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0592.jpg",
+        "prediction_score": 0.9886397123336792,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0593.jpg",
+        "prediction_score": 0.9937431216239929,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0594.jpg",
+        "prediction_score": 0.7211435437202454,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0595.jpg",
+        "prediction_score": 0.941490113735199,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0596.jpg",
+        "prediction_score": 0.676029622554779,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0597.jpg",
+        "prediction_score": 0.9980157613754272,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0598.jpg",
+        "prediction_score": 0.9932502508163452,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0599.jpg",
+        "prediction_score": 0.9165040850639343,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0600.jpg",
+        "prediction_score": 0.8309053778648376,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0602.jpg",
+        "prediction_score": 0.9957709908485413,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0603.jpg",
+        "prediction_score": 0.9410440921783447,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0604.jpg",
+        "prediction_score": 0.898869514465332,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0605.jpg",
+        "prediction_score": 0.9943264126777649,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0606.jpg",
+        "prediction_score": 0.639561653137207,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0607.jpg",
+        "prediction_score": 0.967888355255127,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0608.jpg",
+        "prediction_score": 0.6050469875335693,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0609.jpg",
+        "prediction_score": 0.9955790638923645,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0610.jpg",
+        "prediction_score": 0.8686482906341553,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0611.jpg",
+        "prediction_score": 0.9975513815879822,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0612.jpg",
+        "prediction_score": 0.9729069471359253,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0613.jpg",
+        "prediction_score": 0.9857730269432068,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0614.jpg",
+        "prediction_score": 0.9901313781738281,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0615.jpg",
+        "prediction_score": 0.959868311882019,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0616.jpg",
+        "prediction_score": 0.9973810315132141,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0617.jpg",
+        "prediction_score": 0.9163912534713745,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0618.jpg",
+        "prediction_score": 0.991499125957489,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0619.jpg",
+        "prediction_score": 0.9185783267021179,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0620.jpg",
+        "prediction_score": 0.9928238391876221,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0621.jpg",
+        "prediction_score": 0.9899376630783081,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0622.jpg",
+        "prediction_score": 0.9999151229858398,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0623.jpg",
+        "prediction_score": 0.9932065010070801,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0624.jpg",
+        "prediction_score": 0.9791411757469177,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0625.jpg",
+        "prediction_score": 0.9977676868438721,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0626.jpg",
+        "prediction_score": 0.9890559911727905,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0627.jpg",
+        "prediction_score": 0.9406366348266602,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0628.jpg",
+        "prediction_score": 0.9994773268699646,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0629.jpg",
+        "prediction_score": 0.975842297077179,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0630.jpg",
+        "prediction_score": 0.9864967465400696,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0631.jpg",
+        "prediction_score": 0.986359179019928,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0632.jpg",
+        "prediction_score": 0.9856300950050354,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0633.jpg",
+        "prediction_score": 0.97850501537323,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0634.jpg",
+        "prediction_score": 0.8069376349449158,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0635.jpg",
+        "prediction_score": 0.9945892095565796,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0636.jpg",
+        "prediction_score": 0.742334246635437,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0637.jpg",
+        "prediction_score": 0.9966014623641968,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0638.jpg",
+        "prediction_score": 0.9830044507980347,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0639.jpg",
+        "prediction_score": 0.8595837354660034,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0640.jpg",
+        "prediction_score": 0.9948745369911194,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0641.jpg",
+        "prediction_score": 0.9996978044509888,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0643.jpg",
+        "prediction_score": 0.8026279807090759,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0645.jpg",
+        "prediction_score": 0.7738406658172607,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0646.jpg",
+        "prediction_score": 0.9978986978530884,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0647.jpg",
+        "prediction_score": 0.999592125415802,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0648.jpg",
+        "prediction_score": 0.9995177984237671,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0649.jpg",
+        "prediction_score": 0.9329872727394104,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0650.jpg",
+        "prediction_score": 0.7886611223220825,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0651.jpg",
+        "prediction_score": 0.9884706735610962,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0652.jpg",
+        "prediction_score": 0.7960977554321289,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0653.jpg",
+        "prediction_score": 0.7082589864730835,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0654.jpg",
+        "prediction_score": 0.9976078271865845,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0655.jpg",
+        "prediction_score": 0.9977790713310242,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0656.jpg",
+        "prediction_score": 0.9658262729644775,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0657.jpg",
+        "prediction_score": 0.9987471103668213,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0658.jpg",
+        "prediction_score": 0.9963726997375488,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0659.jpg",
+        "prediction_score": 0.9977126121520996,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0660.jpg",
+        "prediction_score": 0.5442730188369751,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0661.jpg",
+        "prediction_score": 0.9555307030677795,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0662.jpg",
+        "prediction_score": 0.8641476631164551,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0663.jpg",
+        "prediction_score": 0.986049473285675,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0664.jpg",
+        "prediction_score": 0.9565837383270264,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0665.jpg",
+        "prediction_score": 0.8629636168479919,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0666.jpg",
+        "prediction_score": 0.9939233660697937,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0667.jpg",
+        "prediction_score": 0.9624690413475037,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0668.jpg",
+        "prediction_score": 0.5164458155632019,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0669.jpg",
+        "prediction_score": 0.9798208475112915,
+        "prediction_label": "Archaeological artifact"
+    },
+    {
+        "ground_truth:": "artifact_0670.jpg",
+        "prediction_score": 0.9129297137260437,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0671.jpg",
+        "prediction_score": 0.922191321849823,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0672.jpg",
+        "prediction_score": 0.9864243865013123,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0673.jpg",
+        "prediction_score": 0.9712929129600525,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0674.jpg",
+        "prediction_score": 0.9992398023605347,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0675.jpg",
+        "prediction_score": 0.8778013586997986,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0676.jpg",
+        "prediction_score": 0.568458080291748,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0677.jpg",
+        "prediction_score": 0.9242092370986938,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0678.jpg",
+        "prediction_score": 0.7994382381439209,
+        "prediction_label": "Documentation sheet"
+    },
+    {
+        "ground_truth:": "artifact_0679.jpg",
+        "prediction_score": 0.944477379322052,
+        "prediction_label": "Excavation site"
+    },
+    {
+        "ground_truth:": "artifact_0680.jpg",
+        "prediction_score": 0.9998223185539246,
+        "prediction_label": "Documentation sheet"
+    }
+]

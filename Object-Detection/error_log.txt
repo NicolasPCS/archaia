@@ -1,3 +1,1549 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3a463b904f4ccb4cc5ef4119d366d29b0f152eb42d43b52897dfd85791f36556
-size 110733
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00000/000002168.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00000/000004821.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00000/000007498.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00000/000007522.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00000/000007525.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00000/000009509.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00001/000013009.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00001/000015916.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00002/000021941.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00002/000022915.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00002/000024159.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00002/000026042.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00002/000027463.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00002/000028092.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00002/000028095.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00002/000029380.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000030193.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000030365.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000030367.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000030368.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000030383.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000030385.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000030386.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000031175.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000031181.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000031723.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000031724.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000031763.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000032306.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000032307.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000034086.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000034152.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000034478.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000035962.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000036097.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000036406.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000039294.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00003/000039868.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000040357.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000040359.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000040435.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000041184.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000041195.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000041203.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000041557.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000041697.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000041743.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000041784.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000041909.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000042101.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000042103.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000042572.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000043237.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000043242.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000043408.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000044478.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000046596.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000046817.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000046818.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000046819.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000046874.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000047010.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000047398.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000047457.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000048257.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000048656.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000048815.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000049350.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000049351.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000049394.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00004/000049484.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00005/000050511.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00005/000058340.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00006/000060561.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00006/000060593.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00006/000064314.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00008/000081486.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00008/000082172.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00008/000082384.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00008/000082580.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000090225.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000090778.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000092583.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000092587.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000092590.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000092594.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000092809.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000093332.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000093613.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000093635.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000093854.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000093861.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000094380.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000094548.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000094549.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000094916.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000095167.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000095469.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000095732.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000095859.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000095862.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000096087.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000097804.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000097805.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000097806.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000097807.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000097808.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000097809.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000098544.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000098552.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000099885.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000099886.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000099887.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000099888.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000099889.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00009/000099890.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000100472.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000100719.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000101687.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000102575.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000103071.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000103088.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000103224.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000104099.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000105276.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000105299.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000109298.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00010/000109560.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00011/000110628.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00011/000116726.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00012/000120870.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00012/000120873.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00012/000122955.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00012/000123185.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00012/000123195.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00012/000123196.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00012/000123587.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00012/000129436.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000130281.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000130391.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000130392.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000130901.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000132727.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000132728.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000133061.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000133062.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000133422.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000133426.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000133848.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000134815.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000135450.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000136762.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000136885.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000136887.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000137462.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000137463.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000137464.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000137465.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000137467.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000137765.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00013/000139197.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00014/000140398.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00014/000142744.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00014/000145385.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00014/000146156.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00014/000146628.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00014/000146755.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00014/000146843.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00014/000146854.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00016/000160128.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00016/000169150.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000170979.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000171465.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000171611.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000172752.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000173100.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000173115.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000173800.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000174476.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000174667.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000175097.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000176150.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000176349.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000176350.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000176952.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000176953.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000176954.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000178314.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00017/000179584.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00018/000181929.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00018/000184591.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00018/000185600.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00018/000188297.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00018/000189106.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00018/000189385.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000190208.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000192283.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000193165.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000193166.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000194439.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000194747.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000196553.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000196554.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000196557.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000196558.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000196714.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000197779.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00019/000199003.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00020/000202548.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00020/000202671.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00020/000202675.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00020/000204737.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00020/000209571.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000212171.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000212488.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000212731.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000213366.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000214475.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000214923.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000216025.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000216077.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000216679.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000216932.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000216935.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000217001.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000217977.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000217981.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00021/000218877.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00022/000225947.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00022/000226099.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00022/000228161.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00023/000234819.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00023/000235637.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00023/000236071.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00024/000242143.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00024/000245106.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00024/000245120.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00024/000245957.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00024/000248874.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000250390.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000250391.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000250899.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252354.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252358.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252682.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252683.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252769.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252787.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252882.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252883.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252983.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000252984.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000253037.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000253081.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000253456.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000253457.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000253546.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000254446.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000255473.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000255474.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000255557.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256006.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256007.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256008.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256084.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256130.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256131.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256132.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256133.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256134.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000256137.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000257436.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000257438.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000257499.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000257500.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000257501.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000257588.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000257620.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000258168.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000258194.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000258754.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000259628.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000259629.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000259630.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000259631.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00025/000259911.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00027/000272449.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00027/000273165.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00027/000273166.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00027/000273380.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00027/000274837.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000280556.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000281286.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000281292.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000281529.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000281563.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000281565.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000281680.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000281699.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000281703.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000281789.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000282192.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000282195.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000282196.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000282197.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000282719.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000283486.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000283695.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000284758.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000284770.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000285275.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000285276.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000285484.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000285486.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000285487.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000285998.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000286135.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000286403.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000289058.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000289154.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000289186.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00028/000289200.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00029/000291308.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00029/000293745.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00029/000297027.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00029/000298399.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00030/000302778.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00030/000303043.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00030/000303046.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00030/000303496.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00030/000304171.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00030/000308733.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000310673.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000311110.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000311112.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000311407.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312059.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312142.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312303.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312307.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312402.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312416.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312834.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312933.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312934.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312935.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312936.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000312942.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000313266.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000313270.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000313523.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000313539.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000314802.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000315344.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000316433.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000317180.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000318588.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000318610.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000318640.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000318668.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000318919.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000318932.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000318982.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000319396.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000319397.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00031/000319406.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00032/000320504.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00032/000321383.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00032/000325462.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00032/000325764.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00032/000327199.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00032/000327599.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00032/000329593.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00035/000354941.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00035/000357796.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000360637.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000360949.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000361856.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000361874.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000362282.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000362285.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000362288.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000362291.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000362620.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000362673.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000365330.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000365333.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000365335.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000365338.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000367767.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000367770.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000367945.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000367946.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000368191.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000368193.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000368207.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000369542.jpg
+--------------------------------------------------
+ERROR: Detections.__getitem__ not supported for index of type <class 'numpy.ndarray'>.
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000369551.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00036/000369971.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00037/000370798.jpg
+--------------------------------------------------
+ERROR: OpenCV(4.13.0) /io/opencv/modules/imgproc/src/color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+IMAGE_PATH: /home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/00038/000385011.jpg
+--------------------------------------------------
