@@ -13,7 +13,7 @@ from torchvision import transforms
 # Import models
 DEVICE = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 
-MODEL_PATH = "/home/ncaytuir/data/ArchaIA_Project/Object-Detection/finetuned_models/303artifacts_70epochs"
+MODEL_PATH = "/home/nicolascs/archaia_image-classification/Object-Detection/finetuned_models/303artifacts_70epochs"
 
 CONFIDENCE_TRESHOLD = 0.5
 IOU_TRESHOLD = 0.8
@@ -24,7 +24,7 @@ model.to(DEVICE)
 
 torch.set_float32_matmul_precision(["high", "highest"][0])
 
-access_token = "#"
+access_token = ""
 
 birefnet = AutoModelForImageSegmentation.from_pretrained(
     "briaai/RMBG-2.0", trust_remote_code=True, token=access_token#, low_cpu_mem_usage=False
@@ -119,6 +119,8 @@ args = parser.parse_args()
 # Call
 input_path = Path(args.input_path)
 output_dir = Path(args.output_path)
+
+output_dir.mkdir(parents=True, exist_ok=True)
 
 files = sorted([f for f in os.listdir(input_path) if f.lower().endswith(".jpg")])#[:10]
 

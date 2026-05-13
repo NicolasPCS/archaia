@@ -21,8 +21,11 @@ detector = pipeline(model=checkpoint, task="zero-shot-image-classification", use
 candidate_labels = ["Archaeological artifact", "Documentation sheet", "Documentation sheet with archaeological artifact", "Archaeological excavation site", "Outdoor", "Landscape", "Archaeological structure", "Floor"]
 
 # Define output .json file and target path for filtered images
-output_file = Path(f"results_pred_dataset_{os.path.basename(input_path)}.json")
-target_path = f"/home/ncaytuir/data/ArchaIA_Project/dataset_v1/filtered_images/{os.path.basename(input_path)}"
+output_file = Path(f"JSON_results/results_pred_dataset_{os.path.basename(input_path)}.json")
+target_path = Path(f"/home/nicolascs/archaia_image-classification/filtered_images/{os.path.basename(input_path)}")
+target_path.mkdir(parents=True, exist_ok=True)
+
+target_path = str(target_path)
 
 if output_file.exists():
     with output_file.open("r") as f:
@@ -109,7 +112,7 @@ print(cont, "images appended to JSON file.")
 """
 Move Images
 """
-labeled_data = Path(f"results_pred_dataset_{os.path.basename(input_path)}.json")
+labeled_data = Path(f"JSON_results/results_pred_dataset_{os.path.basename(input_path)}.json")
 
 lst_labeled_data = []
 cont = 0

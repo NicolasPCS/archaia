@@ -206,15 +206,22 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+images/
+filtered_images/
+artifacts_nobg/
 OpenContextData/
 FilteredData/
 DETRDataset/
 dataset_v1/
+Scripts/
 oc_all_resources.parquet
-Object-Detection/finetuned_models/v1_50epochs/
-Object-Detection/finetuned_models/v1_70epochs/
 Object-Detection/output_images/
 BRIA-RMBG-2.0/
 Zero-Shot-Image-Classification/Images
 Zero-Shot-Image-Classification/Images2
 Zero-Shot-Image-Classification/First_Dataset
+backgroundless_artifacts/
+*.out
+*.ipynb
+*.txt
+*.safetensors

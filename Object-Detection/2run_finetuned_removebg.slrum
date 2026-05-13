@@ -1,0 +1,30 @@
+#!/bin/bash
+#SBATCH --job-name=RemoveBG_ArchaIA
+#SBATCH --partition=voltagepark
+#SBATCH --account=daphneippolito
+#SBATCH --gres=gpu:1
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=32G
+#SBATCH --time=08:00:00
+#SBATCH --output=logs_removebg_%j.out
+
+# 1. Cargar entorno
+source ~/.bashrc
+conda activate archaia
+
+# 2. Definir rutas base
+INPUT_BASE="/home/nicolascs/archaia_image-classification/filtered_images"
+OUTPUT_BASE="/home/nicolascs/archaia_image-classification/artifacts_nobg"
+
+# 3. Bucle para procesar de la 00000 a la 00038
+for i in {00000..00038}; do
+    echo "Iniciando RemoveBG para carpeta: $i"
+    
+    # Ejecutar el script pasando carpeta de entrada y carpeta de salida
+    python test_finetuned_removebg.py "$INPUT_BASE/$i" "$OUTPUT_BASE/$i"
+    
+    echo "Finalizado carpeta: $i"
+    echo "-----------------------------------"
+done
